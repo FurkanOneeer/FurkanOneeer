@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Recep Furkan Öner 👋
 
-<!--
-**FurkanOneeer/FurkanOneeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT & Infrastructure Specialist focused on Linux server administration, containerized environments, and systems automation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Stack & Focus Areas
+- **Operating Systems:** Linux (Ubuntu Server, Debian)
+- **Virtualization & Containers:** Docker, Docker Compose, Hypervisors
+- **Automation & Scripting:** Bash Scripting, Systems Maintenance
+- **Databases:** PostgreSQL, Database Backup & Recovery Automation
+- **Networking & Protocols:** SSH, Subnetting, Bridged Networking, Tailscale
+
+---
+
+### 📂 Featured Homelab Projects
+- **[Automated Database Infrastructure](https://github.com/FurkanOneeer/it-homelab):** Local PostgreSQL deployment orchestrated with Docker Compose, featuring automated Bash dump workflows and log rotation.
+
+---
+
+### 📬 Connect With Me
+- [LinkedIn]()
